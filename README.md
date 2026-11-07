@@ -1,5 +1,7 @@
 # TP-Link WTC181 LEDE 固件
 
+> 交流群：778213624/339426057/1063542188
+
 OpenWrt/Lede 固件 for TP-Link WTC181（电信版 AX1800，MT7621AT + MT7905DAN + MT7975BN）。
 
 ## 固件信息
